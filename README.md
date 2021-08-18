@@ -2,7 +2,7 @@
 ![0001-19107349424_20210331_161152_0000](https://user-images.githubusercontent.com/59785863/129700028-eb42bd20-bd62-44f8-bf5f-f012c4f2737c.png)
 
 ## Description
-A highly knowledgeable event powerd by <a href="https://studentambassadors.microsoft.com/">Microsoft Learn Student Ambassador</a> and <a href="http://encodepdeu.org/">Encode</a> conducted by <a href="https://studentambassadors.microsoft.com/en-US/profile/96496">Me</a> and <a href="https://github.com/gohil-jay">Jay Gohil</a> on the effective use of developer's tool. This event covers the hands-on experience on usage of git and Github, effective usage of a search engine, and edge developer tool. It was a beginner-friendly event focusing on the effective usage of tools and services used by software developers in their daily life.
+A highly knowledgeable event powerd by <a href="https://studentambassadors.microsoft.com/">Microsoft Learn Student Ambassador</a> and <a href="http://encodepdeu.org/">Encode</a> conducted by <a href="https://studentambassadors.microsoft.com/en-US/profile/96496">Me</a> and <a href="https://studentambassadors.microsoft.com/en-US/profile/69904">Jay Gohil</a> on the effective use of developer's tool. This event covers the hands-on experience on usage of git and Github, effective usage of a search engine, and edge developer tool. It was a beginner-friendly event focusing on the effective usage of tools and services used by software developers in their daily life.
 
 ## Event Distribution
 - _What's Git and Github, and why use it?_
